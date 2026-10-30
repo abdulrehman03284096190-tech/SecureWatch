@@ -1,0 +1,16 @@
+{
+  "monitoring_interval_seconds": 30,
+  "alert_cooldown_seconds": 300,
+  "cpu_threshold_percent": 90.0,
+  "ram_threshold_percent": 90.0,
+  "resource_observation_count": 3,
+  "event_query_limit": 100,
+  "failed_logon_threshold": 5,
+  "security_error_threshold": 10,
+  "event_window_minutes": 10,
+  "report_directory": "Documents",
+  "known_hashes": [],
+  "expected_listening_ports": [],
+  "appearance": "dark",
+  "log_retention_days": 30
+}
